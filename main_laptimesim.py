@@ -431,7 +431,7 @@ if __name__ == '__main__':
     # use_print:                set if prints to console should be used or not (does not suppress hints/warnings)
     # use_print_result:         set if result should be printed to console or not
 
-    debug_opts_ = {"use_plot": False,
+    debug_opts_ = {"use_plot": True,
                    "use_debug_plots": False,
                    "use_plot_comparison_tph": False,
                    "use_print": True,
